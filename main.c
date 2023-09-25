@@ -108,7 +108,7 @@ void printTheLibrary(Book lib[], int numOfTheBooks) {
 }
 
 void masterLucifer() {
-    printf("~~~~~~OĞLUM DAŞŞAK MI GEÇİYORSUNUZ!?~~~~~~\n");
+    printf("~~~~~~Dedim iki kişiyiz!~~~~~~\n");
 }
 
 void welcome() {
