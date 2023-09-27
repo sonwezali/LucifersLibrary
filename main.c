@@ -119,7 +119,7 @@ void welcome() {
     printf(" --------------------------------------\n");
 }
 
-void mainLoop() {
+int main() {
     Book myLib[100];
     int numOfTheBooks = 0;
     bool flag = true;
@@ -164,11 +164,6 @@ void mainLoop() {
             }
         }
     }
-}
-
-int main() {
-    mainLoop();
-
     return 0;
 }
 
